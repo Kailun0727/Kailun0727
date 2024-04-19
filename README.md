@@ -12,7 +12,7 @@
 
 <br />
 
-### Languages and Framework...
+### 📋 Languages and 📚 Framework
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
